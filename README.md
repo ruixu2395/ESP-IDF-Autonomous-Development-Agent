@@ -19,8 +19,8 @@ ESP-IDF-Autonomous-Development-Agent/
 
 ## 使用方式
 
-1. 把 skill 目录放到 Codex 可发现的位置，例如：
-   * `%CODEX_HOME%\skills\esp32-smart-speaker-terminal-dev`
+1. 把 skill 目录放到 Codex/Claude code 可发现的位置，例如：
+   * `%USERPROFILE%\.claude\skills\esp32-smart-speaker-terminal-dev`
    * `%USERPROFILE%\.codex\skills\esp32-smart-speaker-terminal-dev`
 2. 准备 ESP-IDF 环境变量：
    * `ESP_IDF_PROJECT_DIR`：目标工程目录
